@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@src/*": ["src/*"]
+    },
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "outDir": "build",
+    "rootDir": "src",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
