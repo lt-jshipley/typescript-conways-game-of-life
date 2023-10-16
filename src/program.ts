@@ -1,2 +1,3 @@
-import { gameOfLife } from './game-of-life.with-console';
+import { gameOfLife } from './game-of-life';
+
 gameOfLife();

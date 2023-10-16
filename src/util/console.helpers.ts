@@ -1,3 +1,8 @@
+// NOTE: example use of helpers.
+// const output = formatForConsoleOutput(board);
+// cleanPrint(output);
+// await delay(500);
+
 export function cleanPrint(output: string) {
   console.clear();
   console.log(output);
