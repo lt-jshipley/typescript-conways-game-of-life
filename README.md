@@ -1,7 +1,7 @@
 # Conways Game of Life in Typescript
 
 ### Initial Setup
-Copy the .vscode/lanuch.template.json file and rename it to be 'lanuch.json'
+Copy the .vscode/launch.template.json file and rename it to be 'launch.json'
 ```
 > npm install
 ```
